@@ -7,18 +7,22 @@
 	<section name="org.eclipse.papyrus.infra.emf.providers.EMFGraphicalContentProvider_history__platform:/resource/test/model.uml:uml:Type:type">
 		<section name="History">
 			<list key="PreviousSelection">
-				<item value="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-				<item value="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EDate"/>
-				<item value="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
 				<item value="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+				<item value="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EInt"/>
+				<item value="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+				<item value="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EDate"/>
+				<item value="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
 			</list>
 		</section>
 	</section>
 	<section name="org.eclipse.papyrus.infra.emf.providers.EMFGraphicalContentProvider_history__uml:Type:type">
 		<section name="History">
 			<list key="PreviousSelection">
-				<item value="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+				<item value="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EDate"/>
+				<item value="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EFloat"/>
 				<item value="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+				<item value="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+				<item value="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
 			</list>
 		</section>
 	</section>
@@ -32,5 +36,7 @@
 		<item value="false" key="platform:/plugin/org.eclipse.papyrus.customization.paletteconfiguration/facet/PaletteConfiguration.custom"/>
 		<item value="true" key="platform:/plugin/org.eclipse.papyrus.customization.properties/UICustom/PropertiesContext.custom"/>
 		<item value="true" key="platform:/plugin/org.eclipse.papyrus.uml.modelexplorer/resource/SimpleUML.custom"/>
+	</section>
+	<section name="org.eclipse.papyrus.infra.emf.providers.EMFGraphicalContentProvider_history__uml:ValueSpecification:max">
 	</section>
 </section>
