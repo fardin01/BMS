@@ -4,7 +4,10 @@
     <windows>
       <children xsi:type="di:TabFolder">
         <children>
-          <emfPageIdentifier href="platform:/resource/test/model.notation#_aq8-gPkUEeWKX_XsfsffyA"/>
+          <emfPageIdentifier href="platform:/resource/test/model.notation#_d0cokAo3Eea_faTI6T9BZA"/>
+        </children>
+        <children>
+          <emfPageIdentifier href="platform:/resource/test/model.notation#_d07wwAo3Eea_faTI6T9BZA"/>
         </children>
       </children>
     </windows>

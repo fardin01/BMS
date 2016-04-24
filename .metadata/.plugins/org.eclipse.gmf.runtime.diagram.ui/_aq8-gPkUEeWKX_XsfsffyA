@@ -1,18 +1,19 @@
-#Sun Apr 03 20:52:01 CEST 2016
-rulergrid.gridlinestyle=6
-print.margin.bottom=0.5
-print.margin.top=0.5
-print.page.height=11.0
-print.usePortrait=true
-viewport.y=-4
-print.margin.left=0.5
-rulergrid.gridlinecolor=3289650
-rulergrid.gridspacing=20.0
+#Sun Apr 24 19:42:44 CEST 2016
+viewport.x=0
+zoom=1.0
 print.margin.right=0.5
 rulergrid.rulerunit=2
 rulergrid.snaptogrid=false
 print.page.size=Letter
-rulergrid.gridlevel=false
-print.useInches=true
-zoom=1.0
+print.margin.left=0.5
 print.page.width=8.5
+print.useInches=true
+rulergrid.gridspacing=20.0
+print.page.height=11.0
+rulergrid.gridlinecolor=3289650
+print.margin.bottom=0.5
+rulergrid.gridlinestyle=6
+rulergrid.gridlevel=false
+print.margin.top=0.5
+print.usePortrait=true
+viewport.y=-4
